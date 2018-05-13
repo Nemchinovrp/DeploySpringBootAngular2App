@@ -1,0 +1,12 @@
+.idea
+client/.idea
+client/dist
+client/node_modules
+
+server/.idea
+server/.mvn
+server/mvnw
+server/mvnw.cmd
+server/target
+
+
